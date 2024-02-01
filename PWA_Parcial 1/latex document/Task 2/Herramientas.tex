@@ -1,0 +1,43 @@
+\documentclass[]{report}
+\usepackage{amssymb}
+\title{\textbf{\LARGE Tools for PWA}}
+\author{\textbf{\LARGE Roque Vargas Luis Roberto}}
+\begin{document}
+\maketitle
+\begin{flushleft}
+    \textbf{\LARGE Tools for developing a PWA website}
+\end{flushleft}
+\begin{flushleft}
+    \begin{itemize}
+        \item Service Workers: These scripts run in the background and allow applications to handle events such as receiving push notifications, automatic updates, and caching resources for offline operation.
+        \item Manifest JSON: Defines information such as the application name, home screen icon, thematic colors, and more. This helps the application behave like a native app and provides a consistent expe
+        \maketitlerience on the user's device.
+        \item Frameworks and libraries: React, Angular, and Vue.js. These tools offer reusable components, routing, and state management, speeding up the development process and improving efficiency.
+        \item APIs and web technologies: Includes the use of the push notification API to send alerts to users, the geolocation API to customize the experience based on the user's location, and the caching API to enable offline functionality.
+    \end{itemize}
+\end{flushleft}
+
+\begin{flushleft}
+    \textbf{\LARGE Requirements for running a PWA}
+\end{flushleft}
+\begin{flushleft}
+    \begin{itemize}
+        \item Valid Secure HTTPS Connection: Since network requests are routed through a service worker script, adding HTTPS to the server helps mitigate certain vulnerabilities. This allows running heavy background code and communicating with them, so that one or more long tasks do not block the user interface.
+        \item Valid Installed JSON Manifest: This information can be cached with the help of the service worker. The app shell (a model or pattern when creating applications) is then used to load CSS rules and deliver an offline version with full user interface capabilities.
+        \item Installed Service Worker: As mentioned, the service worker is responsible for caching all files, push notifications, content updates, data manipulation, and more. It's important to understand that this script works independently of any existing application or website on the web server, working with event listeners and commands like "fetch," which resembles HTTP commands like "Get/Post/Set."
+    \end{itemize}
+\end{flushleft}
+
+\vspace{4em}
+\newpage
+
+\begin{flushleft}
+    \textbf{\LARGE References}
+\end{flushleft}
+\begin{flushleft}
+    \begin{itemize}
+        \item Adage LATAM. (2023, November 14). Web vs App vs PWA: Which do you need for your business? – Adage LATAM formerly Doctus – Web/Mobile Development. Adage LATAM Formerly Doctus - Web/Mobile Development. https://latam.adagetech.com/es/blog/ventas-y-marketing/web-vs-app-vs-pwa-cual-necesitas-para-tu-negocio/
+        \item Surra, B. (2023, October 3). Progressive Web App Development: Features, Benefits, and Best Practices. MyTaskPanel Consulting. https://www.mytaskpanel.com/desarrollo-de-aplicaciones-web-progresivas/
+    \end{itemize}
+\end{flushleft}
+\end{document}
