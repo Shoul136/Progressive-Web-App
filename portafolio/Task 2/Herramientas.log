@@ -1,0 +1,261 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.1.10)  11 JAN 2024 07:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Herramientas.pdf
+(./Herramientas.pdf
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 3
+      0 obj
+? 
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no x in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ú-).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-
+       1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-
+        1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no k in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ã0).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0
+            ^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P
+               …wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "85.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…
+                wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+Missing character: There is no w in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿ
+                  Š^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ
+                   ^^[OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[
+                      OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[
+                      OP)¾ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+Missing character: There is no O in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾
+                          ÓÉ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÓÉ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ
+                            ’Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’
+                             Æ^^VšÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Æ^^V).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^V
+                                 šÁd(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! Interruption.
+\@err@                                                                  ...
+                                                  The document does not appe...
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^Vš
+                                  Ád(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+! LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^Vš
+                                  Ád(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "C1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁ
+                                   d(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.9 xÚ-1kÃ0^^P…wÿŠ^^[OP)¾ÓÉ’Æ^^VšÁ
+                                   d(F´CÈàÒ8^^DBEízÈ¿¯^^Uuº÷^^NŞ÷ŞKjv{Û^^ByÃ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+ 
+Here is how much of TeX's memory you used:
+ 21 strings out of 478288
+ 569 string characters out of 5849315
+ 288999 words of memory out of 5000000
+ 18317 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,12p,214b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
